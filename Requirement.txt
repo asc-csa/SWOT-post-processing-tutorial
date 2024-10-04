@@ -1,0 +1,42 @@
+Avant de commencer :
+
+Assurez-vous d'installer les bibliothèques nécessaires à faire fonctionner le tutoriel.
+
+```
+!pip install xarray
+!pip install rioxarray
+!apt install gdal-bin
+```
+
+Démarrage rapide : 
+
+Si vous souhaitez interagir directement avec le notebook:
+
+1. Télécharger le fichier du tutoriel [SWOT_filtre.ipynb].
+2. Vous pouvez utiliser ce script dans Google Colab (à partir de votre compte gmail).
+
+Données : 
+
+Les données de la mission SWOT nécessaires pour ce tutoriel sont disponibles sur le site Earth Data de la NASA (https://search.earthdata.nasa.gov/search?q=SWOT_). Nous avons utilisé le produit suivant de la mission SWOT pour ce tutoriel: 'SWOT Level 2 Water Mask Raster Image Data Product, Version C'. Il est à noter qu'il nécessaire de se créer un compte Earth Data afin de pouvoir télécharger les images.
+
+
+
+
+Before you start :
+
+Make sure to install the necessary libraries to run the tutorial.
+
+```
+!pip install xarray
+!pip install rioxarray
+!apt install gdal-bin
+```
+
+If you want to interact directly with the notebook :
+
+1. Download the tutorial file [SWOT_filtre.ipynb].
+2. You can use this script in Google Colab (using your Gmail account).
+
+Data :
+
+The SWOT mission data needed for this tutorial is available on NASA's Earth Data site (https://search.earthdata.nasa.gov/search?q=SWOT_). We used the following product from the SWOT mission for this tutorial: 'SWOT Level 2 Water Mask Raster Image Data Product, Version C'. Please note that you need to create an Earth Data account in order to download the images.
