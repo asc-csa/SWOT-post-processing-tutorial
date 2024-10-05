@@ -4,8 +4,8 @@
 </p>
 
 
-[En Français](# Filtre des données SWOT - Tutoriel)  
-[In English](# SWOT Data Filter - Tutorial)    
+[En Français](#Filtre des données SWOT - Tutoriel)  
+[In English](#SWOT Data Filter - Tutorial)    
 
 # Filtre des données SWOT - Tutoriel
 
