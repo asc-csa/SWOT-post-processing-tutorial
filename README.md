@@ -34,9 +34,13 @@ Si vous souhaitez interagir directement avec le notebook:
 
 Données : 
 
-Les données de la mission SWOT nécessaires pour ce tutoriel sont disponibles sur le site Earth Data de la NASA (https://search.earthdata.nasa.gov/search?q=SWOT_). Nous avons utilisé le produit suivant de la mission SWOT pour ce tutoriel: 'SWOT Level 2 Water Mask Raster Image Data Product, Version C'. Il est à noter qu'il nécessaire de se créer un compte Earth Data afin de pouvoir télécharger les images.
+Les données de la mission SWOT nécessaires pour ce tutoriel sont disponibles sur le site Earth Data de la NASA (https://search.earthdata.nasa.gov/search?q=SWOT_). Il est à noter qu'il nécessaire de se créer un compte Earth Data afin de pouvoir télécharger les images.
 
+Nous avons utilisé les produits 'SWOT Level 2 Water Mask Raster Image Data Product, Version C' de la mission SWOT pour ce tutoriel: 
 
+- SWOT_L2_HR_Raster_100m_UTM22J_N_x_x_x_013_533_051F_20240415T150120_20240415T150141_PIC0_01  
+
+- SWOT_L2_HR_Raster_100m_UTM22J_N_x_x_x_014_533_051F_20240506T114623_20240506T114644_PIC0_01  
 
 # SWOT Data Filter - Tutorial
 
