@@ -69,4 +69,9 @@ If you wish to interact with the notebook directly:
 1. Download the tutorial file [SWOT_filtre.ipynb].
 2. You can use this script in Google Colab (using your Gmail account).
 
-The SWOT mission data needed for this tutorial is available on NASA's Earth Data site (https://search.earthdata.nasa.gov/search?q=SWOT_). We used the following product from the SWOT mission for this tutorial: 'SWOT Level 2 Water Mask Raster Image Data Product, Version C'. Please note that you need to create an Earth Data account in order to download the images.
+The SWOT mission data needed for this tutorial is available on NASA's Earth Data site (https://search.earthdata.nasa.gov/search?q=SWOT_). Please note that you need to create an Earth Data account in order to download the images.  
+We used the 'SWOT Level 2 Water Mask Raster Image Data Product, Version C' from the SWOT mission for this tutorial: 
+
+- SWOT_L2_HR_Raster_100m_UTM22J_N_x_x_x_013_533_051F_20240415T150120_20240415T150141_PIC0_01  
+
+- SWOT_L2_HR_Raster_100m_UTM22J_N_x_x_x_014_533_051F_20240506T114623_20240506T114644_PIC0_01  
