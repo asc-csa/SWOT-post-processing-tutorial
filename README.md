@@ -108,7 +108,7 @@ Nous avons utilisé les produits « SWOT Level 2 Water Mask Raster Image Data P
 
 ## Licence
 
-Ce projet est sous une licence MIT modifiée – voir le fichier [LICENSE](https://github.com/asc-csa/SWOT-Data-Filter/blob/main/LICENSE.txt) pour plus de détails.
+Ce projet est sous une licence MIT modifiée – voir le fichier [LICENSE](https://github.com/asc-csa/SWOT-post-processing-tutorial/blob/main/LICENSE.txt) pour plus de détails.
 
 ---
 
@@ -195,4 +195,5 @@ We used the « SWOT Level 2 Water Mask Raster Image Data Product, Version C »
 
 ## License
 
-This project is licensed under a modified MIT license - see the [LICENSE](https://github.com/asc-csa/SWOT-Data-Filter/blob/main/LICENSE.txt) file for details.
+This project is licensed under a modified MIT license - see the [LICENSE](https://github.com/asc-csa/SWOT-post-processing-tutorial/blob/main/LICENSE.txt) file for details.
+
